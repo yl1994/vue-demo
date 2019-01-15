@@ -1,0 +1,18 @@
+{
+  "name": "vue-todolist",
+  "private": true,
+  "dependencies": {
+    "@rails/webpacker": "3.5",
+    "axios": "^0.18.0",
+    "iview": "^3.2.1",
+    "lodash": "^4.17.11",
+    "vue": "^2.5.17",
+    "vue-loader": "14.2.2",
+    "vue-resource": "^1.5.1",
+    "vue-template-compiler": "^2.5.17",
+    "vue-turbolinks": "^2.0.3"
+  },
+  "devDependencies": {
+    "webpack-dev-server": "2.11.2"
+  }
+}
